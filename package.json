@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-getpid",
   "version": "0.1.0",
-  "description": "A sample cordova plugin to get the current android process id",
+  "description": "A simple cordova plugin to get the current android process id",
   "cordova": {
     "id": "cordova-plugin-getpid",
     "platforms": [
