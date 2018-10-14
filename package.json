@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-getpid",
+  "version": "0.1.0",
+  "description": "A sample cordova plugin to get the current android process id",
+  "cordova": {
+    "id": "cordova-plugin-getpid",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terpro/cordova-plugin-getpid.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "getpid",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Terren Programming",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/terpro/cordova-plugin-getpid/issues"
+  },
+  "homepage": "https://github.com/terpro/cordova-plugin-getpid#readme"
+}
