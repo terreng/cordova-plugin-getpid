@@ -17,11 +17,11 @@ getpid.pid availible after `onDeviceReady`
 
 ### Parameters
 
-appendProcStartTime: (true or false) Also return the android getStartElapsedRealtime value. Useful because PIDs can be resued.
+**appendProcStartTime:** *(true or false)* Also return the android getStartElapsedRealtime value. Useful because PIDs can be resued.
 
-successCallback: (function) Will return process id
+**successCallback:** *(function)* Will return process id (string)
 
-errorCallback: (function) I don't imagine you'll get any errors.. but just in case
+**errorCallback:** *(function)* I don't imagine you'll get any errors.. but just in case
 
 ### Example code
 
@@ -37,5 +37,6 @@ errorCallback: (function) I don't imagine you'll get any errors.. but just in ca
     getpid.pid(true, success, error);
 ```
 
-Example PID: 7829
-Example PID with procStartTime appended: 7829-1089503499
+Example PID: *7829*
+
+Example PID with procStartTime appended: *7829-1089503499*
