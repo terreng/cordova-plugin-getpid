@@ -1,6 +1,6 @@
 # Cordova Get Android PID Plugin
 
-Simple plugin that returns your the current android process id.
+(Android only) Simple plugin that returns your the current android process id.
     
 ## Installation
 
