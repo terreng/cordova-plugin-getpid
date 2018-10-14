@@ -3,7 +3,7 @@
         id="com.terrenprogramming.getpid"
         version="0.7.0">
 
-  <name>Hello</name>
+  <name>Get PID</name>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
