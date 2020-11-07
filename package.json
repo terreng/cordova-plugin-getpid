@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terpro/cordova-plugin-getpid.git"
+    "url": "git+https://github.com/terreng/cordova-plugin-getpid.git"
   },
   "keywords": [
     "cordova",
@@ -19,10 +19,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Terren Programming",
+  "author": "terreng",
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/terpro/cordova-plugin-getpid/issues"
+    "url": "https://github.com/terreng/cordova-plugin-getpid/issues"
   },
-  "homepage": "https://github.com/terpro/cordova-plugin-getpid#readme"
+  "homepage": "https://github.com/terreng/cordova-plugin-getpid#readme"
 }
